@@ -1,0 +1,288 @@
+.BbcpageTopLeftTD {
+	COLOR: white; BACKGROUND-COLOR: #033f3f
+}
+bbcpageToplefttd {
+	COLOR: white; BACKGROUND-COLOR: #033f3f
+}
+.BbcpageTopLeftTD A {
+	COLOR: white; BACKGROUND-COLOR: #033f3f; text-color: #000000
+}
+.BbcpageTopLeftTD A:visited {
+	COLOR: white; BACKGROUND-COLOR: #033f3f; text-color: #000000
+}
+.BbcpageTopLeftTD A:hover {
+	COLOR: white; BACKGROUND-COLOR: #033f3f; text-color: #000000
+}
+.bbcpageLocal {
+	COLOR: white; BACKGROUND-COLOR: #006666
+}
+.bbcpageCrumb {
+	COLOR: white; BACKGROUND-COLOR: #033f3f
+}
+.bbcpageCrumb A {
+	COLOR: white; BACKGROUND-COLOR: #033f3f; TEXT-DECORATION: none
+}
+.bbcpageCrumb A:visited {
+	COLOR: white; BACKGROUND-COLOR: #033f3f; TEXT-DECORATION: none
+}
+.bbcpageCrumb A:hover {
+	COLOR: white; BACKGROUND-COLOR: #033f3f; TEXT-DECORATION: none
+}
+.bbcpageFooterMargin {
+	COLOR: white; BACKGROUND-COLOR: #000000
+}
+.bbcpageFooterMargin A {
+	COLOR: white; BACKGROUND-COLOR: #000000
+}
+.bbcpageFooterMargin A:visited {
+	COLOR: white; BACKGROUND-COLOR: #000000
+}
+.bbcpageFooter {
+	COLOR: white; BACKGROUND-COLOR: #000000
+}
+.navcontainer A {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 7px; DISPLAY: block; PADDING-LEFT: 7px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; MARGIN: 0px; WIDTH: auto; COLOR: white; PADDING-TOP: 4px; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none; voice-family: inherit
+}
+.navcontainer A:hover {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 7px; DISPLAY: block; PADDING-LEFT: 7px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; MARGIN: 0px; WIDTH: auto; COLOR: #35fdff; PADDING-TOP: 4px; TEXT-DECORATION: none; voice-family: inherit
+}
+.navcontainer {
+	BACKGROUND-COLOR: #006666
+}
+.navcontainer TD {
+	BACKGROUND-COLOR: #006666
+}
+A.firstGlobalNavItem {
+	BORDER-LEFT: #aaaaaa 1px solid
+}
+#lhncontainer SPAN {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+.bbcpageServices {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+#lhncontainer A {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+#lhnlevel3container A {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+.leftnavheader {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+.leftnavheader P {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+.leftnavheader A {
+	COLOR: white; FONT-FAMILY: verdana, helvetica, sans-serif; BACKGROUND-COLOR: #006666
+}
+#lhncontainer A:hover {
+	COLOR: #35fdff; BACKGROUND-COLOR: #000000
+}
+#lhnlevel3container A:hover {
+	COLOR: #35fdff; BACKGROUND-COLOR: #000000
+}
+#scinatcrumb {
+	COLOR: #ffffff
+}
+#scinatcrumb A {
+	COLOR: #ffffff
+}
+#scinatfooter {
+	TEXT-ALIGN: left
+}
+#scinatfooter TH {
+	COLOR: #cccccc; BACKGROUND-COLOR: #006666
+}
+#scinatfooter TH {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 7px
+}
+#scinatfooter TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 7px
+}
+#scinatfooter TD {
+	COLOR: #cccccc; BACKGROUND-COLOR: #333333
+}
+#scinatfooter A {
+	TEXT-DECORATION: underline
+}
+TABLE#scinatfooter {
+	PADDING-RIGHT: 5px; MARGIN-TOP: 10px; DISPLAY: block; MARGIN-LEFT: 10px; MARGIN-RIGHT: 2px
+}
+TABLE#scinathelpbox {
+	BORDER-RIGHT: white 1px solid; BORDER-TOP: white 1px solid; DISPLAY: block; MARGIN: 15px 20px 10px 0px; BORDER-LEFT: white 1px solid; BORDER-BOTTOM: white 1px solid
+}
+.smallpromo {
+	COLOR: #333333
+}
+.smallpromo A {
+	COLOR: #333333
+}
+.smallpromo A:visited {
+	COLOR: #333333
+}
+.smallpromo A:hover {
+	COLOR: #333333
+}
+.smallpromopic {
+	COLOR: #000000
+}
+.smallpromopic A {
+	COLOR: #000b4a
+}
+.smallpromopic A:visited {
+	COLOR: #000b4a
+}
+.smallpromopic A:hover {
+	COLOR: #000b4a
+}
+.bigpromotitle {
+	COLOR: #a9ac91
+}
+.bigpromo {
+	COLOR: #000000
+}
+.bigpromo A {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+.artheader {
+	COLOR: black; BACKGROUND-COLOR: #9cb4ce; font-color: black
+}
+.artheader P {
+	COLOR: black; BACKGROUND-COLOR: #9cb4ce; font-color: black
+}
+.artheader TD {
+	COLOR: black; BACKGROUND-COLOR: #9cb4ce; font-color: black
+}
+.arttext {
+	COLOR: #000000; BACKGROUND-COLOR: #d3d7e0
+}
+.arttext A {
+	COLOR: #030066
+}
+.arttext A:visited {
+	COLOR: #030066
+}
+.globalcurve {
+	BACKGROUND-POSITION: left 50%; BACKGROUND-IMAGE: url(/science/space/images/globalcurve.gif); BACKGROUND-REPEAT: no-repeat
+}
+.globalcurve A:hover {
+	BACKGROUND-POSITION: left 50%; BACKGROUND-IMAGE: url(/science/space/images/globalcurve.gif); BACKGROUND-REPEAT: no-repeat
+}
+.smallpromoheader {
+	COLOR: #333333
+}
+.smallpromoheader A {
+	COLOR: #333333
+}
+.smallpromoheader A:hover {
+	COLOR: #333333
+}
+.smallpromoheader A:visited {
+	COLOR: #333333
+}
+.topicbgcolor {
+	COLOR: #000000; BACKGROUND-COLOR: #cccccc
+}
+.topicbgcolor2 {
+	COLOR: #bbbca8; BACKGROUND-COLOR: #bbbca8
+}
+.topicbgcolor3 {
+	COLOR: #c1c3b0; BACKGROUND-COLOR: #c1c3b0
+}
+.topicheader {
+	COLOR: #484a35
+}
+.topicheader P {
+	COLOR: #484a35
+}
+.topictext {
+	COLOR: #484a35
+}
+.topictext A {
+	COLOR: #484a35
+}
+.topictext A:visited {
+	COLOR: #484a35
+}
+.textpromoheader {
+	COLOR: #000000
+}
+.textpromoheader A {
+	COLOR: #000000
+}
+.textpromoheader A:hover {
+	COLOR: #000000
+}
+.textpromoheader A:visited {
+	COLOR: #000000
+}
+.textpromo {
+	COLOR: #000000
+}
+.pagetitle {
+	COLOR: #33ffff
+}
+.strapline {
+	COLOR: #c9d6d6
+}
+.topicarrowtext {
+	COLOR: #484a35
+}
+.topicarrow {
+	COLOR: #484a35
+}
+.topicarrow UL {
+	COLOR: #484a35
+}
+.topicarrow A {
+	COLOR: #484a35
+}
+.promoborders {
+	BACKGROUND: #669999
+}
+.promocell {
+	BACKGROUND: #cccccc; COLOR: #333333
+}
+.promocell2 {
+	BACKGROUND: #cccccc; COLOR: #333333
+}
+.promocell3 {
+	BACKGROUND: #666666; COLOR: #cccccc
+}
+.contenttext {
+	FONT-SIZE: 70%; BACKGROUND-COLOR: #cccccc
+}
+.contenttext A {
+	COLOR: #333333
+}
+.promoarrow {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; LIST-STYLE-IMAGE: url(/sn/furniture/menu_bullet.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 8px; PADDING-TOP: 0px
+}
+.promoarrow UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; LIST-STYLE-IMAGE: url(/sn/furniture/menu_bullet.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 8px; PADDING-TOP: 0px
+}
+.promoarrow A {
+	FONT-WEIGHT: normal; COLOR: #333333; TEXT-DECORATION: underline
+}
+.promoarrow A:hover {
+	FONT-WEIGHT: normal; COLOR: #333333; TEXT-DECORATION: underline
+}
+.promoarrow A:visited {
+	FONT-WEIGHT: normal; COLOR: #333333; TEXT-DECORATION: underline
+}
+.contentlist {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 90%; LIST-STYLE-IMAGE: url(/sn/images/arrowsmall.gif); PADDING-BOTTOM: 0px; MARGIN: 10px 0px 10px 8px; PADDING-TOP: 0px
+}
+.contentlist UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 90%; LIST-STYLE-IMAGE: url(/sn/images/arrowsmall.gif); PADDING-BOTTOM: 0px; MARGIN: 10px 0px 10px 8px; PADDING-TOP: 0px
+}
+.contentlist LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 5px 0px; PADDING-TOP: 0px
+}
+.followup {
+	COLOR: #333333
+}
+.followup A {
+	FONT-WEIGHT: bold; COLOR: #333333
+}
